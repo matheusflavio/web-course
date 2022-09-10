@@ -3,7 +3,7 @@ A repository to host my progress on **The Complete 2022 Web Development Bootcamp
 ## Section 3 almost done by now
 - [x] Section 1
 - [x] Section 2
-- [ ] Section 3
+- [x] Section 3
 - [ ] Section 4
 - [ ] Section 5
 - [ ] Section 6
