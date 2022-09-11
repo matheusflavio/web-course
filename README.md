@@ -1,6 +1,6 @@
 # web-course
 A repository to host my progress on **The Complete 2022 Web Development Bootcamp**
-## Section 3 almost done by now
+## Section 4.7 in course
 - [x] Section 1
 - [x] Section 2
 - [x] Section 3
