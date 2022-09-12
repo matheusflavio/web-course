@@ -1,10 +1,10 @@
 # web-course
 A repository to host my progress on **The Complete 2022 Web Development Bootcamp**
-## Section 4.7 in course
+## Section 5 to be coursed
 - [x] Section 1
 - [x] Section 2
 - [x] Section 3
-- [ ] Section 4
+- [x] Section 4
 - [ ] Section 5
 - [ ] Section 6
 - [ ] Section 7
