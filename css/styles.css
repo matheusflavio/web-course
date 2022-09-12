@@ -1,7 +1,26 @@
+a {
+    color: lightcoral;
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    transition: transform 0.4s;
+}
+
+a:hover {
+    background-color: green;
+    font-size: calc(130%);
+}
+
 body {
-    background-color: rgba(68, 0, 255, 0.315);
+    background-color: rgb(29, 0, 109);
     color: white;
     text-shadow: 2px 2px black;
+}
+
+h1,
+h3 {
+    color: aqua;
 }
 
 hr {
@@ -17,34 +36,35 @@ img {
     height: 200px;
 }
 
-a {
-    color: lightcoral;
-    font-family: Ubuntu;
-    font-weight: bold;
-    font-size: large;
-    text-decoration: none;
+.border1,
+.border1 table,
+.border1 td,
+.border1 th,
+.border1 tr {
+    border: 1px solid;
 }
 
-h1, h3 {
-    color: aqua;
-}
-
-.ufmg {
-    color: navajowhite;
-}
-
-.externalLinks {
-    color: aquamarine !important;
+.border1 td {
+    padding: 5px;
 }
 
 .center {
     margin: 0 auto;
 }
 
-.border1, .border1 table, .border1 td, .border1 th, .border1 tr{
-    border: 1px solid;
+.externalLinks {
+    color: aquamarine !important;
 }
 
-.border1 td {
-    padding: 5px;
+.nobackground {
+    background-color: transparent;
+}
+
+.nobackground:hover {
+    background-color: transparent;
+    font-size: large;
+}
+
+.ufmg {
+    color: navajowhite;
 }
