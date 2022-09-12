@@ -4,12 +4,6 @@ h1 {
 }
 
 /*
-img {
-    background-color: red;
-}
-*/
-
-/*
 Classes are more general than id, and can be aplied to multiple elements. It has less effect than id.
 Classes have more 'power' than then general structure attribute.
 */
@@ -22,8 +16,16 @@ Classes have more 'power' than then general structure attribute.
     background-color: red;
 }
 
+.circular {
+    border-radius: 100%;
+}
+
 .purple {
     color: purple;
+}
+
+.round-corners {
+    border-radius: 25%;
 }
 
 .unzoom .zoom {
@@ -36,4 +38,12 @@ Classes have more 'power' than then general structure attribute.
 
 .zoom:hover {
     transform: scale(1.1);
+}
+
+/*
+Id Selector is more specific than class and the general structure property and only works for a single item with the unique id.
+Two items can't have the same id.
+*/
+#heading {
+    color: blue;
 }
