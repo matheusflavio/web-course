@@ -4,12 +4,11 @@ a {
     font-weight: bold;
     font-size: large;
     text-decoration: none;
-    transition: transform 0.4s;
 }
 
 a:hover {
     background-color: green;
-    font-size: calc(130%);
+    font-size: larger;
 }
 
 body {
@@ -67,4 +66,12 @@ img {
 
 .ufmg {
     color: navajowhite;
+}
+
+.zoom {
+    transition: transform 0.4s;
+}
+
+.zoom:hover {
+    scale: 1.1;
 }
