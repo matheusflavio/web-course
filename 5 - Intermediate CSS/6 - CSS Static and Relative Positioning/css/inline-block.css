@@ -1,0 +1,26 @@
+div {
+    display: inline-block;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+}
+
+.red {
+    background-color: red;
+    left: 200px;
+    position: relative;
+}
+
+.blue {
+    background-color: blue;
+    position: relative;
+    right: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    position: relative;
+    right: 100px;
+}

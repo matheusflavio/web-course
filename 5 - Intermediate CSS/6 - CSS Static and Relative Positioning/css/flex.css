@@ -1,0 +1,23 @@
+body {
+    display: flex;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: -100px;
+}
+
+.red {
+    background-color: red;
+    left: 200px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
