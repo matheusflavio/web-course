@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 div {
@@ -20,6 +21,11 @@ span.underline {
     text-decoration: underline;
 }
 
+div.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
 div.bottom-container,
 div.middle-container {
     height: 200px;
@@ -32,4 +38,16 @@ div.bottom-container {
 
 div.middle-container {
     background-color: red;
+}
+
+img.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+img.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
