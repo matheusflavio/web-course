@@ -2,16 +2,17 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: black;
 }
 
 div {
-    color: gray;
+    color: lightgray;
 }
 
 div.top-container {
     background-color: #8758FF;
     color: #F2F2F2;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 100px );
 }
 
 img.profile-picture{
@@ -47,10 +48,6 @@ div.top-container {
     padding-top: 100px;
 }
 
-div.bottom-container,
-div.middle-container {
-}
-
 img.top-cloud {
     position: absolute;
     right: 300px;
@@ -61,4 +58,8 @@ img.bottom-cloud {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.middle-container {
+    padding-top: 2.5%;
 }
