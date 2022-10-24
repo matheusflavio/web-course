@@ -19,14 +19,7 @@ all: $(OBJ)
 clean:
 	@rm -rf $(OBJ_FOLDER)* $(TARGET)
 
-newcommit:
-	git add .
-	git commit -m "$$ARGS"
-	git push
-
 commit:
 	git add .
-	@echo "Please write the commit message: "; \
-    read MESSAGE ;\
-	git commit -m "$$MESSAGE"
+	git commit -m "$$ARGS"
 	git push
