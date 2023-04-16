@@ -48,7 +48,7 @@ There's an update on the course, with new lessions and reamakes on a lot of sect
 - [ ] Section 41
 
 # OLD VERSION OF THE COURSE:
-## Section 6.1 is the next step
+## Section 6.3 is the next step
 - [x] Section 1
 - [x] Section 2
 - [x] Section 3
