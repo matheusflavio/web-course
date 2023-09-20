@@ -4,7 +4,7 @@ A repository to host my progress on **The Complete 20xx Web Development Bootcamp
 ### Update
 There's an update on the course, with new lessions and reamakes on a lot of sections. So, I'll start over and the older implementations are going to be located inside several "Legacy" folders
 
-## Section 9.5 is the next step:
+## Section 8.4 is the next step:
 - [x] Section 1
 - [x] Section 2
 - [x] Section 3
@@ -12,7 +12,7 @@ There's an update on the course, with new lessions and reamakes on a lot of sect
 - [x] Section 5
 - [x] Section 6
 - [x] Section 7
-- [x] Section 8
+- [ ] Section 8
 - [ ] Section 9
 - [ ] Section 10
 - [ ] Section 11
